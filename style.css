@@ -1,0 +1,13 @@
+.col .text1 p {
+    font-family: 'courier';
+    color: #fff;
+}
+
+.back-button {
+    color: #103cbe; /* Warna teks */
+    border: none; /* Tidak ada border */
+    font-size: 19px; /* Ukuran font */
+    cursor: pointer; /* Mengubah kursor saat diarahkan ke tombol */
+    background-color: #fff;
+    
+}
